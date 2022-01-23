@@ -1,0 +1,17 @@
+.discription{
+    text-align: center;
+    font-family: roboto;
+    -webkit-text-fill-color: rgb(253, 253, 253);
+    -webkit-text-stroke-color: rgb(0, 0, 0);
+    -webkit-text-stroke-width: 0.70px; 
+    
+}
+.discription .btnD{
+    margin: 20px;
+    background-color: transparent;
+    font-size: 20px;
+}
+
+.discription Button:hover{
+    background-color: red;
+}

@@ -1,0 +1,19 @@
+:root {
+  --gradient: linear-gradient(
+    45deg,
+    #845ec2,
+    #d65db1,
+    #ff6f91,
+    #ff9671,
+    #ffc75f,
+    #f9f871
+  );
+}
+body {
+  background: #ddd;
+  background-image: var(--gradient);
+}
+.modal{
+  text-align: center;
+  margin-top: 20px;
+}
